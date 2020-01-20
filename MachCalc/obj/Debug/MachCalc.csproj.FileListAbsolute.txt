@@ -1,0 +1,9 @@
+C:\Data\Proj-Prog-MachCalc\App_Win_oldVer\MachCalc\bin\Debug\MachCalc.exe.config
+C:\Data\Proj-Prog-MachCalc\App_Win_oldVer\MachCalc\bin\Debug\MachCalc.exe
+C:\Data\Proj-Prog-MachCalc\App_Win_oldVer\MachCalc\bin\Debug\MachCalc.pdb
+C:\Data\Proj-Prog-MachCalc\App_Win_oldVer\MachCalc\obj\Debug\MachCalc.csprojAssemblyReference.cache
+C:\Data\Proj-Prog-MachCalc\App_Win_oldVer\MachCalc\obj\Debug\MachCalc.Properties.Resources.resources
+C:\Data\Proj-Prog-MachCalc\App_Win_oldVer\MachCalc\obj\Debug\MachCalc.csproj.GenerateResource.cache
+C:\Data\Proj-Prog-MachCalc\App_Win_oldVer\MachCalc\obj\Debug\MachCalc.exe
+C:\Data\Proj-Prog-MachCalc\App_Win_oldVer\MachCalc\obj\Debug\MachCalc.pdb
+C:\Data\Proj-Prog-MachCalc\App_Win_oldVer\MachCalc\obj\Debug\MachCalc.Form_Main.resources
